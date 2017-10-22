@@ -1,7 +1,7 @@
 # crystal-collector
 A Fun jQuery Guessing Game
 
-This is a front-end application the uses HTML5, CSS, JavaScript and jQuery.
+This is a front-end application the uses HTML5, CSS, JavaScript and jQuery. This particular project highlights using jQuery to dynamically update the HTML of the application.
 The page was built using Bootstrap for responsiveness.
 
 How to Play
@@ -13,3 +13,5 @@ Technology:
 HTML5
 CSS3
 JavaScript
+Bootstrap
+Google Fonts
