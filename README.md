@@ -7,11 +7,11 @@ The page was built using Bootstrap for responsiveness.
 How to Play
 You will be given a random number at the start of the game. Use the crystals to match your points to the random number. The value of the crystals changes for every game and you must figure out their values on your own.
 
-![alt text](crystal-collector/assets/images/crystal-collector-1.PNG "Crystals Collecter 1")
+![alt text](github.com.risaco/crystal-collector/assets/images/crystal-collector-1.PNG "Crystals Collecter 1")
 
 Match your points to the random number to win. If you go over, you lose!
 
-![alt text](crystal-collector/assets/images/crystal-collector-2.PNG "Crystals Collector 2")
+![alt text](github.com.risaco/crystal-collector/assets/images/crystal-collector-2.PNG "Crystals Collector 2")
 
 (Play Crystals Collector)
 
