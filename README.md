@@ -8,7 +8,7 @@ How to Play
 You will be given a random number at the start of the game. Use the crystals to match your points to the random number. The value of the crystals changes for every game and you must figure out their values on your own.
 
 
-![Crystal Collector Image 1](https://github.com/risaco/crystal-collector/assets/images/crystal-collector-1.PNG "Image 1")
+![alt text](assets/images/crystal-collector-1.PNG "Image 1")
 
 
 
