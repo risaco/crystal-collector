@@ -14,7 +14,7 @@ You will be given a random number at the start of the game. Use the crystals to 
 
 Match your points to the random number to win. If you go over, you lose!
 
-![alt text](github.com.risaco/crystal-collector/assets/images/crystal-collector-2.PNG "Crystals Collector 2")
+![alt text](assets/images/crystal-collector-2.PNG "Crystals Collector 2")
 
 (Play Crystals Collector)
 
