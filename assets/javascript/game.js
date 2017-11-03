@@ -90,7 +90,7 @@ $(document).ready(function() {
 		totalScore = 0;
 		$("#totalNumber").html(totalScore);
 
-		setTimeout(alert(x), 2000);
+		alert(x);
 	} // END of gameReset function
 
 	// *** GAME SETTINGS AT START ***
@@ -135,7 +135,7 @@ $(document).ready(function() {
 			$("#wins").html("Wins: " + wins);
 
 
-			gameReset("YOU WIN!!");
+			setTimeout(function() {gameReset("YOU WIN!!")}, 200);
 		}
 
 		else if (totalScore > randNumber){
@@ -144,7 +144,7 @@ $(document).ready(function() {
 			$("#totalNumber").html(totalScore);
 			$("#losses").html("Losses: " + losses);
 
-			gameReset("WOMP-WOMP...YOU LOSE!");
+			setTimeout(function() {gameReset("WOMP-WOMP...YOU LOSE!")}, 200);
 		}
 	});
 
