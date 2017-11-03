@@ -7,15 +7,14 @@ This is a front-end application the uses HTML5, CSS, JavaScript and jQuery. This
 The page was built using Bootstrap for responsiveness.
 This application contains alerts and the logic has timeouts to allow the final scores to render before the alert executes.
 
-###How to Play
+### How to Play
 You will be given a random number at the start of the game. Use the crystals to match your points to the random number. The value of the crystals changes for every game and you must figure out their values on your own.
 
 Match your points to the random number to win. If you go over, you lose!
 
-<br>
 ![alt text](assets/images/crystal-collector-1.PNG "Image 1")
 
-<br>
+
 ![alt text](assets/images/crystal-collector-2.PNG "Crystals Collector 2")
 
 ### [Play the Game!](https://risaco.github.io/crystal-collector/)
