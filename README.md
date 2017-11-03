@@ -16,7 +16,7 @@ Match your points to the random number to win. If you go over, you lose!
 
 ![alt text](assets/images/crystal-collector-2.PNG "Crystals Collector 2")
 
-(Play Crystals Collector)
+![Play the Game!](https://risaco.github.io/crystal-collector/)
 
 Technology:
 HTML5 | CSS3 | JavaScript | jQuery
